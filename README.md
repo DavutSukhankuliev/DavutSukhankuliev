@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="resources/style.css">
-
 # Welcome to my GitHub Profile! 🚀
 
 👋 Hey there! I'm Davut, a passionate Unity developer currently on the lookout for a new, exciting opportunity. On my GitHub, you'll find a variety of projects showcasing my skills and interests, ranging from Unity development to data analysis using Python and R. I'm constantly updating my knowledge, and you'll often find me delving into the intricacies of C#, Zenject, DoTween, and the Oculus SDK.
@@ -16,6 +14,7 @@ I'm currently focused on enriching the Unity development experience by working o
 ## Tools
 In my day-to-day work, I rely on a set of tools that help me bring my ideas to life. These include:
 
+<link rel="stylesheet" href="resources/style.css">
 <body>
     <a href="https://unity.com#gh-light-mode-only">
         <img src="resources/unity_icon.svg" width="50" height="50" alt="Unity logo">
@@ -23,19 +22,19 @@ In my day-to-day work, I rely on a set of tools that help me bring my ideas to l
     <a href="https://unity.com#gh-dark-mode-only">
         <img src="resources/unity-dark_icon.svg" width="50" height="50" alt="Unity logo">
     </a>
-    <a href="https://unity.com#gh-light-mode-only">
+    <a href="https://github.com#gh-light-mode-only">
         <img src="resources/github_icon.svg" width="50" height="50" alt="GitHub logo">
     </a>
-    <a href="https://unity.com#gh-dark-mode-only">
+    <a href="https://github.com#gh-dark-mode-only">
         <img src="resources/github-dark_icon.svg" width="50" height="50" alt="GitHub logo">
     </a>
-    <a href="https://unity.com">
+    <a href="https://about.gitlab.com/">
         <img src="resources/gitlab-colored_icon.svg" width="50" height="50" alt="GitLab logo">
     </a>
-    <a href="https://unity.com">
+    <a href="https://www.jetbrains.com/">
         <img src="resources/rider-colored_icon.svg" width="50" height="50" alt="Rider logo">
     </a>
-    <a href="https://unity.com">
+    <a href="https://www.meta.com/">
         <img src="resources/meta-colored_icon.svg" width="50" height="50" alt="Meta logo">
     </a>
 </body>
