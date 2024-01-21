@@ -13,16 +13,20 @@ I'm currently focused on enriching the Unity development experience by working o
 
 ## Tools
 In my day-to-day work, I rely on a set of tools that help me bring my ideas to life. These include:
-- JB Rider
-- Unity Editor
-- DoTween
-- Zenject
+
+<img src="resources/unity_icon.svg#gh-light-mode-only" width="50" height="50" alt="Unity logo">
+<img src="resources/unity-dark_icon.svg#gh-dark-mode-only" width="50" height="50" alt="Unity logo">
+<img src="resources/github_icon.svg#gh-light-mode-only" width="50" height="50" alt="GitHub logo">
+<img src="resources/github-dark_icon.svg#gh-dark-mode-only" width="50" height="50" alt="GitHub logo">
+<img src="resources/gitlab-colored_icon.svg" width="50" height="50" alt="GitLab logo">
+<img src="resources/rider-colored_icon.svg" width="50" height="50" alt="Rider logo">
+<img src="resources/meta-colored_icon.svg" width="50" height="50" alt="Meta logo">
 
 Feel free to have a look around and explore some of the fascinating projects I'm working on. If you're interested in collaborating or have exciting opportunities, don't hesitate to get in touch! I'm all ears for a good conversation or a thrilling venture. Let's make cool things happen together! 🌟
 
 ## Contact me
-- Telegram https://t.me/dvt_st
-
-\#unitydeveloper #codingenthusiast #alwayslearning
+<a href="https://t.me/dvt_st">
+    <img src="resources/telegram-colored_icon.svg" width="50" height="50" alt="Telegram logo">
+</a>
 
 P.S. Did I mention that I love discussing new tech, sharing insights, and coding? So, if you're into any of that, we're going to get along just fine! Cheers! 🎮📊🚀
