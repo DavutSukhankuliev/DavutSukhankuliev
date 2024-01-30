@@ -1,9 +1,5 @@
-body {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-a {
-  color: transparent;
+.row:after {
+content: "";
+display: table;
+clear: both;
 }
