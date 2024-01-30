@@ -14,19 +14,36 @@ I'm currently focused on enriching the Unity development experience by working o
 ## Tools
 In my day-to-day work, I rely on a set of tools that help me bring my ideas to life. These include:
 
-<link rel="stylesheet" href="resources/style.css">
 <body>
-    <div align="center">
-        <div class="row">
-            <div class="column">
+    <table align="center">
+        <tr>
+            <th align="center" width="60%">Main languages and tools</th>
+            <th align="center" width="40%">Additional languages and tools</th>
+        </tr>
+        <tr>
+            <td align="center">
                 <a href="https://unity.com#gh-light-mode-only">
                     <img src="resources/unity_icon.svg" width="50" height="50" alt="Unity logo">
                 </a>
                 <a href="https://unity.com#gh-dark-mode-only">
                     <img src="resources/unity-dark_icon.svg" width="50" height="50" alt="Unity logo">
                 </a>
-            </div>
-            <div class="column">
+                <a href="https://www.jetbrains.com/">
+                    <img src="resources/rider-colored_icon.svg" width="50" height="50" alt="Rider logo">
+                </a>
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td align="center">
+                <a href="https://www.meta.com/">
+                    <img src="resources/meta-colored_icon.svg" width="50" height="50" alt="Meta logo">
+                </a>
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td align="center">
                 <a href="https://github.com#gh-light-mode-only">
                     <img src="resources/github_icon.svg" width="50" height="50" alt="GitHub logo">
                 </a>
@@ -36,21 +53,11 @@ In my day-to-day work, I rely on a set of tools that help me bring my ideas to l
                 <a href="https://about.gitlab.com/">
                     <img src="resources/gitlab-colored_icon.svg" width="50" height="50" alt="GitLab logo">
                 </a>
-            </div>
-            <div class="column">
-                <a href="https://www.jetbrains.com/">
-                    <img src="resources/rider-colored_icon.svg" width="50" height="50" alt="Rider logo">
-                </a>
-            </div>
-            <div class="column">
-                <a href="https://www.meta.com/">
-                    <img src="resources/meta-colored_icon.svg" width="50" height="50" alt="Meta logo">
-                </a>
-            </div>
-        </div>
-    </div>
+            </td>
+            <td></td>
+        </tr>
+    </table>
 </body>
-
 
 Feel free to have a look around and explore some of the fascinating projects I'm working on. If you're interested in collaborating or have exciting opportunities, don't hesitate to get in touch! I'm all ears for a good conversation or a thrilling venture. Let's make cool things happen together! 🌟
 
