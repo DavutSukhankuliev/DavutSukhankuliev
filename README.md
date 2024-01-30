@@ -23,21 +23,49 @@ In my day-to-day work, I rely on a set of tools that help me bring my ideas to l
         <tr>
             <td align="center">
                 <a href="https://unity.com#gh-light-mode-only">
-                    <img src="resources/unity_icon.svg" width="50" height="50" alt="Unity logo">
+                    <img src="resources/unity_icon.svg" height="50" alt="Unity logo">
                 </a>
                 <a href="https://unity.com#gh-dark-mode-only">
-                    <img src="resources/unity-dark_icon.svg" width="50" height="50" alt="Unity logo">
+                    <img src="resources/unity-dark_icon.svg" height="50" alt="Unity logo">
                 </a>
                 <a href="https://www.jetbrains.com/">
-                    <img src="resources/rider-colored_icon.svg" width="50" height="50" alt="Rider logo">
+                    <img src="resources/rider-colored_icon.svg" height="50" alt="Rider logo">
                 </a>
             </td>
             <td></td>
         </tr>
         <tr>
             <td align="center">
+                <a href="https://github.com/modesttree/Zenject/tree/master">
+                    <img src="resources/zenject-colored_logo.png" height="50" alt="Zenject logo">
+                </a>
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td align="center">
+                <a href="https://dotween.demigiant.com/index.php">
+                    <img src="resources/dotween-colored_icon.png" height="50" alt="DOTween logo">
+                </a>
+                <a href="https://github.com/neuecc/UniRx">
+                    <img src="resources/unirx-colored_logo.png" height="50" alt="UniRX logo">
+                </a>
+                <a href="https://cysharp.github.io/UniTask#gh-light-mode-only">
+                    <img src="resources/unitask_icon.png" height="50" alt="UniTask logo">
+                </a>
+                <a href="https://cysharp.github.io/UniTask#gh-dark-mode-only">
+                    <img src="resources/unitask-dark_icon.png" height="50" alt="UniTask logo">
+                </a>
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td align="center">
+                <a href="https://www.android.com/">
+                    <img src="resources/android-colored_logo.png" height="50" alt="Android logo">
+                </a>
                 <a href="https://www.meta.com/">
-                    <img src="resources/meta-colored_icon.svg" width="50" height="50" alt="Meta logo">
+                    <img src="resources/meta-colored_icon.svg" height="50" alt="Meta logo">
                 </a>
             </td>
             <td></td>
@@ -45,13 +73,13 @@ In my day-to-day work, I rely on a set of tools that help me bring my ideas to l
         <tr>
             <td align="center">
                 <a href="https://github.com#gh-light-mode-only">
-                    <img src="resources/github_icon.svg" width="50" height="50" alt="GitHub logo">
+                    <img src="resources/github_icon.svg" height="50" alt="GitHub logo">
                 </a>
                 <a href="https://github.com#gh-dark-mode-only">
-                    <img src="resources/github-dark_icon.svg" width="50" height="50" alt="GitHub logo">
+                    <img src="resources/github-dark_icon.svg" height="50" alt="GitHub logo">
                 </a>
                 <a href="https://about.gitlab.com/">
-                    <img src="resources/gitlab-colored_icon.svg" width="50" height="50" alt="GitLab logo">
+                    <img src="resources/gitlab-colored_icon.svg" height="50" alt="GitLab logo">
                 </a>
             </td>
             <td></td>
