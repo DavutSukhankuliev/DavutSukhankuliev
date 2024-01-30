@@ -4,7 +4,7 @@
 _______________________________________________________________________________________________________________
 ## About Me
 - 👨‍💻 Unity Developer
-- 🌱 Learning Data Analysis with Python and R
+- 🌱 Enhancing my OOP, patterns skills
 - 🚀 Currently creating cool Unity modules to enhance projects
 - 💡 Constantly seeking new challenges to push my skills further
 
@@ -16,27 +16,39 @@ In my day-to-day work, I rely on a set of tools that help me bring my ideas to l
 
 <link rel="stylesheet" href="resources/style.css">
 <body>
-    <a href="https://unity.com#gh-light-mode-only">
-        <img src="resources/unity_icon.svg" width="50" height="50" alt="Unity logo">
-    </a>
-    <a href="https://unity.com#gh-dark-mode-only">
-        <img src="resources/unity-dark_icon.svg" width="50" height="50" alt="Unity logo">
-    </a>
-    <a href="https://github.com#gh-light-mode-only">
-        <img src="resources/github_icon.svg" width="50" height="50" alt="GitHub logo">
-    </a>
-    <a href="https://github.com#gh-dark-mode-only">
-        <img src="resources/github-dark_icon.svg" width="50" height="50" alt="GitHub logo">
-    </a>
-    <a href="https://about.gitlab.com/">
-        <img src="resources/gitlab-colored_icon.svg" width="50" height="50" alt="GitLab logo">
-    </a>
-    <a href="https://www.jetbrains.com/">
-        <img src="resources/rider-colored_icon.svg" width="50" height="50" alt="Rider logo">
-    </a>
-    <a href="https://www.meta.com/">
-        <img src="resources/meta-colored_icon.svg" width="50" height="50" alt="Meta logo">
-    </a>
+    <div align="center">
+        <div class="row">
+            <div class="column">
+                <a href="https://unity.com#gh-light-mode-only">
+                    <img src="resources/unity_icon.svg" width="50" height="50" alt="Unity logo">
+                </a>
+                <a href="https://unity.com#gh-dark-mode-only">
+                    <img src="resources/unity-dark_icon.svg" width="50" height="50" alt="Unity logo">
+                </a>
+            </div>
+            <div class="column">
+                <a href="https://github.com#gh-light-mode-only">
+                    <img src="resources/github_icon.svg" width="50" height="50" alt="GitHub logo">
+                </a>
+                <a href="https://github.com#gh-dark-mode-only">
+                    <img src="resources/github-dark_icon.svg" width="50" height="50" alt="GitHub logo">
+                </a>
+                <a href="https://about.gitlab.com/">
+                    <img src="resources/gitlab-colored_icon.svg" width="50" height="50" alt="GitLab logo">
+                </a>
+            </div>
+            <div class="column">
+                <a href="https://www.jetbrains.com/">
+                    <img src="resources/rider-colored_icon.svg" width="50" height="50" alt="Rider logo">
+                </a>
+            </div>
+            <div class="column">
+                <a href="https://www.meta.com/">
+                    <img src="resources/meta-colored_icon.svg" width="50" height="50" alt="Meta logo">
+                </a>
+            </div>
+        </div>
+    </div>
 </body>
 
 
